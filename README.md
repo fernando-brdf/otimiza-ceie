@@ -28,15 +28,18 @@ Caso o arquivo criado esteja com os acentos defeituosos no excel, siga os passos
 2. No bloco de notas, vá até a guia **_Arquivo_** > **_Salvar como_** > 
 3. No campo **_Codificação_** (parte inferior), altere para **_UTF-8 com BOM_** > **_Salvar_**.
 
+## Download
+   * ###### [Windows](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-win.exe);
+   * ##### [Linux (não testado)](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-linux);
+   * ##### [Mac (não testado)](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-macos).
+
+
 <br>
 
 ## Informações adicionais
 
 - ##### Desenvolvedor: Fernando Jorge Araújo da Silva.
 - ##### E-mail: fernando.brdf@gmail.com.
-- ##### Última alteração: 29/06/2020.
+- ##### Última atualização: 29/06/2020.
 - ##### Versão: 0.0.1.
-- ##### Sistema Operacional: 
-   * ###### [Windows 10](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-win.exe);
-   * ##### [Linux (não testado)](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-linux);
-   * ##### [Mac (não testado)](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-macos).
+
