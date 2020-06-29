@@ -1,0 +1,24 @@
+{
+  "name": "otimiza-ceie",
+  "version": "1.0.0",
+  "description": "Software para a indexação de pesquisas feitas na plataforma ceie",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "pkg ."
+  },
+  "author": "Fernando Jorge Araújo da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "pkg": "^4.4.8",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "bin": "src/index.js",
+  "pkg": {
+    "target": [
+      "node12","win","x64"
+    ]
+  }
+}
