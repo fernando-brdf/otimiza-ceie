@@ -37,6 +37,6 @@ Caso o arquivo criado esteja com os acentos defeituosos no excel, siga os passos
 - ##### Última alteração: 29/06/2020.
 - ##### Versão: 0.0.1.
 - ##### Sistema Operacional: 
-   * ###### Windows 10;
-   * ##### Linux (não testado);
-   * ##### Mac (não testado).
+   * ###### [Windows 10](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-win.exe);
+   * ##### [Linux (não testado)](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-linux);
+   * ##### [Mac (não testado)](https://raw.githubusercontent.com/fernando-brdf/otimiza-ceie/master/build/otimiza-ceie-macos).
