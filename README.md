@@ -24,9 +24,9 @@ Inicie o executável, espere o programa abrir. Após a mensagem "Pesquisar termo
 
 Caso o arquivo criado esteja com os acentos defeituosos no excel, siga os passos:
 
-1. Clique com o botão esquerdo do mouse no arquivo > Vá em _Editar_ 
-2. No bloco de notas, vá até a guia _Arquivo_ > _Salvar como_ > 
-3. No campo _Codificação_ (parte inferior), altere para _UTF-8 com BOM_ > _Salvar_.
+1. Clique com o botão esquerdo do mouse no arquivo > Vá em **_Editar_** 
+2. No bloco de notas, vá até a guia **_Arquivo_** > **_Salvar como_** > 
+3. No campo **_Codificação_** (parte inferior), altere para **_UTF-8 com BOM_** > **_Salvar_**.
 
 <br>
 
