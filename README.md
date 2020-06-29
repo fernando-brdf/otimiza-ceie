@@ -1,4 +1,15 @@
+
 # Otimiza-CEIE
+
+<!--lint disable no-literal-urls-->
+<p align="center">
+    <img
+      alt="otimiza-ceie"
+      src="https://cdn.pixabay.com/photo/2016/03/26/13/09/notebook-1280538_960_720.jpg"
+      height=400px
+      width=100%
+    />
+</p>
 <br/>
  
  ## Sobre o sistema
